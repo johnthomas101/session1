@@ -18,3 +18,17 @@
     font-size: 40px;
     font-family: Verdana;
 }
+
+.divStyle1{
+    color: white;
+    background-color: #999999;
+    padding: 20px;
+    margin: 30x
+}
+
+.divStyle2{
+    color: white;
+    background-color: red;
+    padding: 20px;
+    margin: 30px;
+}
